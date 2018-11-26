@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MovieTimeline>
+  <Info>
+    <SavedBy>Movie Timeline v11.4a</SavedBy>
+    <FileFormatVersion>2</FileFormatVersion>
+  </Info>
+  <Project>
+    <FullInterval>
+      <StartTime>0</StartTime>
+      <EndTime>18000</EndTime>
+    </FullInterval>
+    <ZoomInterval>
+      <StartTime>0</StartTime>
+      <EndTime>18000</EndTime>
+    </ZoomInterval>
+    <LastTrackNum>1</LastTrackNum>
+  </Project>
+  <Tracks>
+    <Track>
+      <Shot>
+        <Format>WMV</Format>
+        <PathFileName>C:\Users\Koushik\Desktop\STK_Cert_KoushikChowdhury_STK11\STK_Cert_KoushikChowdhury_STK11\AircraftView</PathFileName>
+        <StartFrame>0</StartFrame>
+        <NumDigits>4</NumDigits>
+        <Bitrate>5000</Bitrate>
+        <WMV_Codec />
+        <Interval>
+          <StartTime>0</StartTime>
+          <EndTime>18000</EndTime>
+        </Interval>
+      </Shot>
+      <Collapsed>true</Collapsed>
+      <Selected>false</Selected>
+      <is2D>false</is2D>
+      <WindowID>1</WindowID>
+      <WindowCustomName />
+      <WindowWidth>0</WindowWidth>
+      <WindowHeight>0</WindowHeight>
+      <PixelAspect>1</PixelAspect>
+      <PreviewWidth>0</PreviewWidth>
+      <WindowSizeName />
+      <AntiAliasing>3</AntiAliasing>
+      <MotionBlur>false</MotionBlur>
+      <OffScreenRender>true</OffScreenRender>
+      <LastSubTrackNum>0</LastSubTrackNum>
+      <SubTracks>
+        <SubtrackTimeStep>
+          <Name>Time step</Name>
+          <Selected>false</Selected>
+          <Keyframes />
+        </SubtrackTimeStep>
+        <SubtrackCamera>
+          <Name>Camera</Name>
+          <Selected>false</Selected>
+          <Keyframes />
+        </SubtrackCamera>
+      </SubTracks>
+    </Track>
+  </Tracks>
+</MovieTimeline>

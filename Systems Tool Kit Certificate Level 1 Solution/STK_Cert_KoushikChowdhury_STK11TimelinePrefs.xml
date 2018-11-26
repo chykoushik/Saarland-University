@@ -1,0 +1,64 @@
+<?xml version = "1.0" standalone = "yes"?>
+<TimelineLine_Prefs STK_version = "11.4.1">
+    <Views Type = "Content">
+        <ContentView Name = "Scenario Availability">
+            <Row ClassName = "Scenario" ComponentName = "AvailabilityIntervals" DisplayName = "STK_Cert_KoushikChowdhury_STK11 AvailabilityIntervals" IsDefaultName = "True" IsExpanded = "False" IsGroup = "False" IsHidden = "False" Path = "/Application/STK/Scenario/STK_Cert_KoushikChowdhury_STK11" Type = "IntervalList">
+                <Interval Name = "STK_Cert_KoushikChowdhury_STK11 AvailabilityIntervals" StartTime = "28 Oct 2011 18:54:00.000" StopTime = "28 Oct 2011 23:54:00.000" />
+            </Row>
+            <Row ClassName = "Place" ComponentName = "LightingIntervals.Umbra" DisplayName = "Ica LightingIntervals.Umbra" IsDefaultName = "True" IsExpanded = "False" IsGroup = "False" IsHidden = "False" Path = "/Application/STK/Scenario/STK_Cert_KoushikChowdhury_STK11/Place/Ica" Type = "IntervalList">
+                <Interval Name = "Ica LightingIntervals.Umbra" StartTime = "28 Oct 2011 23:01:22.931" StopTime = "28 Oct 2011 23:54:00.000" />
+            </Row>
+            <Row ClassName = "Place" ComponentName = "LightingIntervals.Penumbra" DisplayName = "Ica LightingIntervals.Penumbra" IsDefaultName = "True" IsExpanded = "False" IsGroup = "False" IsHidden = "False" Path = "/Application/STK/Scenario/STK_Cert_KoushikChowdhury_STK11/Place/Ica" Type = "IntervalList">
+                <Interval Name = "Ica LightingIntervals.Penumbra" StartTime = "28 Oct 2011 22:59:06.368" StopTime = "28 Oct 2011 23:01:22.931" />
+            </Row>
+            <Row ClassName = "Place" ComponentName = "LightingIntervals.Sunlight" DisplayName = "Ica LightingIntervals.Sunlight" IsDefaultName = "True" IsExpanded = "False" IsGroup = "False" IsHidden = "False" Path = "/Application/STK/Scenario/STK_Cert_KoushikChowdhury_STK11/Place/Ica" Type = "IntervalList">
+                <Interval Name = "Ica LightingIntervals.Sunlight" StartTime = "28 Oct 2011 18:54:00.000" StopTime = "28 Oct 2011 22:59:06.368" />
+            </Row>
+            <Row ClassName = "Access" ComponentName = "AccessIntervals" DisplayName = "Aircraft-CertAircraft-Sensor-AC_Camera-To-AreaTarget-Runway AccessIntervals" IsDefaultName = "True" IsExpanded = "False" IsGroup = "False" IsHidden = "False" Path = "Access:/Application/STK/Scenario/STK_Cert_KoushikChowdhury_STK11/Aircraft/CertAircraft/Sensor/AC_Camera;/Application/STK/Scenario/STK_Cert_KoushikChowdhury_STK11/AreaTarget/Runway" Type = "IntervalList">
+                <Interval Name = "Aircraft-CertAircraft-Sensor-AC_Camera-To-AreaTarget-Runway AccessIntervals" StartTime = "28 Oct 2011 18:54:00.000" StopTime = "28 Oct 2011 18:55:23.573" />
+                <Interval Name = "Aircraft-CertAircraft-Sensor-AC_Camera-To-AreaTarget-Runway AccessIntervals" StartTime = "28 Oct 2011 19:37:48.302" StopTime = "28 Oct 2011 19:39:10.252" />
+            </Row>
+            <Row ClassName = "Access" ComponentName = "AccessIntervals" DisplayName = "Satellite-CertSatellite-Sensor-Sat_Camera-To-Place-Ica AccessIntervals" IsDefaultName = "True" IsExpanded = "False" IsGroup = "False" IsHidden = "False" Path = "Access:/Application/STK/Scenario/STK_Cert_KoushikChowdhury_STK11/Satellite/CertSatellite/Sensor/Sat_Camera;/Application/STK/Scenario/STK_Cert_KoushikChowdhury_STK11/Place/Ica" Type = "IntervalList">
+                <Interval Name = "Satellite-CertSatellite-Sensor-Sat_Camera-To-Place-Ica AccessIntervals" StartTime = "28 Oct 2011 19:58:18.508" StopTime = "28 Oct 2011 20:00:59.633" />
+                <Interval Name = "Satellite-CertSatellite-Sensor-Sat_Camera-To-Place-Ica AccessIntervals" StartTime = "28 Oct 2011 21:34:42.722" StopTime = "28 Oct 2011 21:37:25.286" />
+                <Interval Name = "Satellite-CertSatellite-Sensor-Sat_Camera-To-Place-Ica AccessIntervals" StartTime = "28 Oct 2011 23:11:12.648" StopTime = "28 Oct 2011 23:13:39.149" />
+            </Row>
+            <Row ClassName = "Access" ComponentName = "AccessIntervals" DisplayName = "Aircraft-CertAircraft-Sensor-AC_Camera-To-Place-Ica AccessIntervals" IsDefaultName = "True" IsExpanded = "False" IsGroup = "False" IsHidden = "False" Path = "Access:/Application/STK/Scenario/STK_Cert_KoushikChowdhury_STK11/Aircraft/CertAircraft/Sensor/AC_Camera;/Application/STK/Scenario/STK_Cert_KoushikChowdhury_STK11/Place/Ica" Type = "IntervalList">
+                <Interval Name = "Aircraft-CertAircraft-Sensor-AC_Camera-To-Place-Ica AccessIntervals" StartTime = "28 Oct 2011 19:16:59.115" StopTime = "28 Oct 2011 19:17:17.580" />
+            </Row>
+            <Row ClassName = "Access" ComponentName = "AccessIntervals.First" DisplayName = "Aircraft-CertAircraft-Sensor-AC_Camera-To-Place-Ica AccessIntervals.First" IsDefaultName = "True" IsExpanded = "False" IsGroup = "False" IsHidden = "False" Path = "Access:/Application/STK/Scenario/STK_Cert_KoushikChowdhury_STK11/Aircraft/CertAircraft/Sensor/AC_Camera;/Application/STK/Scenario/STK_Cert_KoushikChowdhury_STK11/Place/Ica" Type = "Interval">
+                <Interval Name = "Aircraft-CertAircraft-Sensor-AC_Camera-To-Place-Ica AccessIntervals.First" StartTime = "28 Oct 2011 19:16:59.115" StopTime = "28 Oct 2011 19:17:17.580" />
+            </Row>
+            <Row ClassName = "Access" ComponentName = "AccessIntervals.Span.Start" DisplayName = "Aircraft-CertAircraft-Sensor-AC_Camera-To-Place-Ica AccessIntervals.Span.Start" IsDefaultName = "True" IsExpanded = "False" IsGroup = "False" IsHidden = "False" Path = "Access:/Application/STK/Scenario/STK_Cert_KoushikChowdhury_STK11/Aircraft/CertAircraft/Sensor/AC_Camera;/Application/STK/Scenario/STK_Cert_KoushikChowdhury_STK11/Place/Ica" Type = "Event">
+                <Interval Name = "Aircraft-CertAircraft-Sensor-AC_Camera-To-Place-Ica AccessIntervals.Span.Start" StartTime = "28 Oct 2011 19:16:59.115" StopTime = "28 Oct 2011 19:16:59.115" />
+            </Row>
+            <Row ClassName = "Access" ComponentName = "AccessIntervals.Span.Stop" DisplayName = "Aircraft-CertAircraft-Sensor-AC_Camera-To-Place-Ica AccessIntervals.Span.Stop" IsDefaultName = "True" IsExpanded = "False" IsGroup = "False" IsHidden = "False" Path = "Access:/Application/STK/Scenario/STK_Cert_KoushikChowdhury_STK11/Aircraft/CertAircraft/Sensor/AC_Camera;/Application/STK/Scenario/STK_Cert_KoushikChowdhury_STK11/Place/Ica" Type = "Event">
+                <Interval Name = "Aircraft-CertAircraft-Sensor-AC_Camera-To-Place-Ica AccessIntervals.Span.Stop" StartTime = "28 Oct 2011 19:17:17.580" StopTime = "28 Oct 2011 19:17:17.580" />
+            </Row>
+            <Row ClassName = "Access" ComponentName = "AccessIntervals.Longest.Start" DisplayName = "Aircraft-CertAircraft-Sensor-AC_Camera-To-Place-Ica AccessIntervals.Longest.Start" IsDefaultName = "True" IsExpanded = "False" IsGroup = "False" IsHidden = "False" Path = "Access:/Application/STK/Scenario/STK_Cert_KoushikChowdhury_STK11/Aircraft/CertAircraft/Sensor/AC_Camera;/Application/STK/Scenario/STK_Cert_KoushikChowdhury_STK11/Place/Ica" Type = "Event">
+                <Interval Name = "Aircraft-CertAircraft-Sensor-AC_Camera-To-Place-Ica AccessIntervals.Longest.Start" StartTime = "28 Oct 2011 19:16:59.115" StopTime = "28 Oct 2011 19:16:59.115" />
+            </Row>
+            <Row ClassName = "Access" ComponentName = "AccessIntervals.Longest.Stop" DisplayName = "Aircraft-CertAircraft-Sensor-AC_Camera-To-Place-Ica AccessIntervals.Longest.Stop" IsDefaultName = "True" IsExpanded = "False" IsGroup = "False" IsHidden = "False" Path = "Access:/Application/STK/Scenario/STK_Cert_KoushikChowdhury_STK11/Aircraft/CertAircraft/Sensor/AC_Camera;/Application/STK/Scenario/STK_Cert_KoushikChowdhury_STK11/Place/Ica" Type = "Event">
+                <Interval Name = "Aircraft-CertAircraft-Sensor-AC_Camera-To-Place-Ica AccessIntervals.Longest.Stop" StartTime = "28 Oct 2011 19:17:17.580" StopTime = "28 Oct 2011 19:17:17.580" />
+            </Row>
+            <Row ClassName = "Access" ComponentName = "AccessIntervals.First" DisplayName = "Satellite-CertSatellite-Sensor-Sat_Camera-To-Place-Ica AccessIntervals.First" IsDefaultName = "True" IsExpanded = "False" IsGroup = "False" IsHidden = "False" Path = "Access:/Application/STK/Scenario/STK_Cert_KoushikChowdhury_STK11/Satellite/CertSatellite/Sensor/Sat_Camera;/Application/STK/Scenario/STK_Cert_KoushikChowdhury_STK11/Place/Ica" Type = "Interval">
+                <Interval Name = "Satellite-CertSatellite-Sensor-Sat_Camera-To-Place-Ica AccessIntervals.First" StartTime = "28 Oct 2011 19:58:18.508" StopTime = "28 Oct 2011 20:00:59.633" />
+            </Row>
+            <Row ClassName = "Access" ComponentName = "AccessIntervals.Span.Start" DisplayName = "Satellite-CertSatellite-Sensor-Sat_Camera-To-Place-Ica AccessIntervals.Span.Start" IsDefaultName = "True" IsExpanded = "False" IsGroup = "False" IsHidden = "False" Path = "Access:/Application/STK/Scenario/STK_Cert_KoushikChowdhury_STK11/Satellite/CertSatellite/Sensor/Sat_Camera;/Application/STK/Scenario/STK_Cert_KoushikChowdhury_STK11/Place/Ica" Type = "Event">
+                <Interval Name = "Satellite-CertSatellite-Sensor-Sat_Camera-To-Place-Ica AccessIntervals.Span.Start" StartTime = "28 Oct 2011 19:58:18.508" StopTime = "28 Oct 2011 19:58:18.508" />
+            </Row>
+            <Row ClassName = "Access" ComponentName = "AccessIntervals.Span.Stop" DisplayName = "Satellite-CertSatellite-Sensor-Sat_Camera-To-Place-Ica AccessIntervals.Span.Stop" IsDefaultName = "True" IsExpanded = "False" IsGroup = "False" IsHidden = "False" Path = "Access:/Application/STK/Scenario/STK_Cert_KoushikChowdhury_STK11/Satellite/CertSatellite/Sensor/Sat_Camera;/Application/STK/Scenario/STK_Cert_KoushikChowdhury_STK11/Place/Ica" Type = "Event">
+                <Interval Name = "Satellite-CertSatellite-Sensor-Sat_Camera-To-Place-Ica AccessIntervals.Span.Stop" StartTime = "28 Oct 2011 23:13:39.149" StopTime = "28 Oct 2011 23:13:39.149" />
+            </Row>
+            <Row ClassName = "Access" ComponentName = "AccessIntervals.Longest.Start" DisplayName = "Satellite-CertSatellite-Sensor-Sat_Camera-To-Place-Ica AccessIntervals.Longest.Start" IsDefaultName = "True" IsExpanded = "False" IsGroup = "False" IsHidden = "False" Path = "Access:/Application/STK/Scenario/STK_Cert_KoushikChowdhury_STK11/Satellite/CertSatellite/Sensor/Sat_Camera;/Application/STK/Scenario/STK_Cert_KoushikChowdhury_STK11/Place/Ica" Type = "Event">
+                <Interval Name = "Satellite-CertSatellite-Sensor-Sat_Camera-To-Place-Ica AccessIntervals.Longest.Start" StartTime = "28 Oct 2011 21:34:42.722" StopTime = "28 Oct 2011 21:34:42.722" />
+            </Row>
+            <Row ClassName = "Access" ComponentName = "AccessIntervals.Longest.Stop" DisplayName = "Satellite-CertSatellite-Sensor-Sat_Camera-To-Place-Ica AccessIntervals.Longest.Stop" IsDefaultName = "True" IsExpanded = "False" IsGroup = "False" IsHidden = "False" Path = "Access:/Application/STK/Scenario/STK_Cert_KoushikChowdhury_STK11/Satellite/CertSatellite/Sensor/Sat_Camera;/Application/STK/Scenario/STK_Cert_KoushikChowdhury_STK11/Place/Ica" Type = "Event">
+                <Interval Name = "Satellite-CertSatellite-Sensor-Sat_Camera-To-Place-Ica AccessIntervals.Longest.Stop" StartTime = "28 Oct 2011 21:37:25.286" StopTime = "28 Oct 2011 21:37:25.286" />
+            </Row>
+        </ContentView>
+    </Views>
+    <Views Type = "Time">
+        <TimeView FullViewRulerStartTime = "0.000000" FullViewRulerStopTime = "0.000000" GlobalIntervalComp = "AnalysisInterval" GlobalIntervalCompPath = "/Application/STK/Scenario/STK_Cert_KoushikChowdhury_STK11" GlobalStartOffset = "0.000000" GlobalStartTime = "28 Oct 2011 18:54:00.000" GlobalStopOffset = "0.000000" GlobalStopTime = "28 Oct 2011 23:54:00.000" MaxFullViewTime = "0.000000" MinFullViewTime = "0.000000" Name = "Scenario Analysis Period" ViewportStartTime = "0.000000" ViewportStopTime = "0.000000" />
+    </Views>
+</TimelineLine_Prefs>
